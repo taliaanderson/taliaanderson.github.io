@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
 font_size: L
 
@@ -156,5 +156,5 @@ cms:
   branch: master
   local_backend: false
 icon:
-  pack:
-    ai: false
+  pack: ai
+    ai: true
