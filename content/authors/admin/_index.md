@@ -63,8 +63,8 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-  # icon_pack: ai
+ #- icon: cv
+   #icon_pack: ai
    #link: uploads/CV_Anderson.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -76,4 +76,4 @@ highlight_name: false
 
 I am a PhD student in the School of Geography, Development and Environment and in the Laboratory of Tree Ring Research. My research focuses on climate variability and change in Latin American mountain landscapes across different spatial and temporal scales. I employ a variety of data types, from tree rings to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Anderson.pdf" "newtab" >}}CV{{< /staticref >}}.
