@@ -4,7 +4,7 @@ summary: Using NDVI to explore peatland productivity and climate relationships i
 tags:
 #- Research
 #- Collaboration 
-date: "2018-04-27T00:00:00Z"
+date: "2021-05-02"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

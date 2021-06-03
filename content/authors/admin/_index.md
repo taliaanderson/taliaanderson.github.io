@@ -63,15 +63,15 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- #- icon: cv
-   #icon_pack: ai
-   #link: uploads/CV_Anderson.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/CV_Anderson.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "taliaanderson@email.arizona.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am a PhD student in the School of Geography, Development and Environment and in the Laboratory of Tree Ring Research. My research focuses on climate variability and change in Latin American mountain landscapes across different spatial and temporal scales. I employ a variety of data types, from tree rings to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
