@@ -62,7 +62,7 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: true
 
@@ -156,5 +156,5 @@ cms:
   branch: master
   local_backend: false
 icon:
-  pack: 
+  pack:
     ai: true
