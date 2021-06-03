@@ -1,16 +1,18 @@
 ---
 title: Upper Lake Mary Lake Levels
-summary: Using NDVI to explore peatland productivity and climate relationships in northern Chile
+summary: Evaluating lake level records and their relationships to climate variables
 tags:
 #- Research
 #- Collaboration 
 date: "2018-04-27T00:00:00Z"
+lastmod: "2021-06-03"
+weight: 40
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo of a bofedal from the area of Cosapilla (October, 2019)
+  caption: 
   focal_point: Smart
 
 links:
@@ -31,4 +33,7 @@ url_video: ""
 slides: ""
 ---
 
-This research project began as part of a Fulbright Study and Research Fellowship in collaboration with the Instituto de Conservacion, Biodiversidad y Territorio in Valdivia, Chile and the Laboratorio de Geo-Información y Percepción Remota in Valparaíso, Chile. I used satellite imagery to monitor changes in greenness and to assess how climate factors like temperature and precipitation influence the productivity of the peatlands.
+This project is the result of a collaboration between the Climate Assessment for the Southwest ([CLIMAS](https://climas.arizona.edu/)) program at the University of Arizona and Flagstaff Water Services ([FWS](https://www.flagstaff.az.gov/1275/Water-Services)). The overarching question at the heart of this research is: how do Upper Lake Mary (ULM) water levels respond to climatic conditions in the Rio de Flag and Walnut Creek watersheds? We find that cool season (Nov-Mar) precipitation consistently plays the most important role in determining ULM lake levels. This emphasizes the primary influence of combined winter snow accumulation and early spring precipitation on lake levels for the upcoming summer. However, we also suggest that temperatures may be playing an increasingly important role in determining lake levels in more recent years. 
+
+**FUNDING**\
+This research was supported by a grant from the National Oceanic and Atmospheric Administration's Climate Program Office through grant NA17OAR4310288 with the CLIMAS program at the University of Arizona.

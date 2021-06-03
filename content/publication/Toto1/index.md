@@ -1,5 +1,5 @@
 ---
-title: "Climate Sensitivity and Potential Vulnerability of Guatemalan Fir (Abies guatemalensis) Forests in Totonicapan, Guatemala"
+title: "Climate Sensitivity and Potential Vulnerability of Guatemalan Fir (Abies guatemalensis) Forests in Totonicapn, Guatemala"
 authors:
 - admin
 - Daniel Griffin
@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "*Journal of Latin American Geography, 17*(1)"
 publication_short: ""
 
-abstract: Despite continued forest loss and extensive demand for wood products throughout Guatemala, the locally managed and protected forests of Totonicapan remain some of the most intact within the country. Here, we study the growth rings of Guatemalan fir (Pinaceae, Abies guatemalensis Rehder, pinabete) at Totonicapan to assess environmental influences on tree growth and the potential vulnerability of these forests to climate change in the western highlands. We find that late summer and dry season precipitation are critical drivers in annual ring-width variability and that tree growth responds negatively to warm sea surface temperature anomalies in the eastern tropical Pacific. Considering our results in light of future climate model projections for Central America, we suggest that these forests will become increasingly susceptible to widespread drying and higher temperatures. Such shifts could fundamentally jeopardize an endemic and endangered tree species that has traditionally been preserved by K?iche? communal governance and that is highly regarded for its ecosystem services and role in the Guatemalan economy.
+abstract: Despite continued forest loss and extensive demand for wood products throughout Guatemala, the locally managed and protected forests of Totonicap&aacute;n remain some of the most intact within the country. Here, we study the growth rings of Guatemalan fir (Pinaceae, *Abies guatemalensis* Rehder, pinabete) at Totonicap&aacute;n to assess environmental influences on tree growth and the potential vulnerability of these forests to climate change in the western highlands. We find that late summer and dry season precipitation are critical drivers in annual ring-width variability and that tree growth responds negatively to warm sea surface temperature anomalies in the eastern tropical Pacific. Considering our results in light of future climate model projections for Central America, we suggest that these forests will become increasingly susceptible to widespread drying and higher temperatures. Such shifts could fundamentally jeopardize an endemic and endangered tree species that has traditionally been preserved by K'iche' communal governance and that is highly regarded for its ecosystem services and role in the Guatemalan economy.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis #placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
