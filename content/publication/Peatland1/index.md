@@ -26,7 +26,7 @@ abstract: The high Andean peatlands, locally known as ?bofedales?, are a unique 
 
 tags:
 - peatlands
-featured: false
+featured: true
 
 # links:
 # - name: ""

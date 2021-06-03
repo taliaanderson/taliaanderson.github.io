@@ -10,7 +10,7 @@ date: "2021-05-02"
 external_link: ""
 
 image:
-  caption: Farm in Guatemala (2013)
+  caption: ""
   focal_point: Smart
 
 links:
@@ -33,9 +33,11 @@ slides: ""
 
 This project focused on analyzing trends and changes in growing season rainfall patterns and extreme events across the drought-prone Dry Corridor region of Central America. We found that the MSD has increased in length and is interspersed with more variable episodes of rainfall across much of the region, though not statistically significant in most places. These regional trends are consistent with anecdotal evidence scattered throughout the literature and from our research in Guatemala, but localized analyses expose the challenges in capturing the complex spatial variability in Central American rainfall. This work has directly inspired and laid the groundwork for my PhD research (link to ag decision making).
 
-#Media Spotlights https://news.arizona.edu/story/when-reporting-climatedriven-human-migration-place-matters
+**RELATED PUBLICATIONS** 
+{{< cite page="/publication/MSD1" view="4" >}}
 
-
-#Pubs
+**MEDIA** \
+-[When Reporting Climate Driven Human Migration, Place Matters](https://news.arizona.edu/story/when-reporting-climatedriven-human-migration-place-matters) \
+-[Researchers Discover Nuanced Connection Between Climate Change And Immigration](https://kjzz.org/content/1329766/researchers-discover-nuanced-connection-between-climate-change-and-immigration)
 
 #Fundings

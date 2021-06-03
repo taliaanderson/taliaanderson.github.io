@@ -27,7 +27,7 @@ abstract: Despite continued forest loss and extensive demand for wood products t
 
 tags:
 - dendro
-featured: false
+featured: true
 
 # links:
 # - name: ""

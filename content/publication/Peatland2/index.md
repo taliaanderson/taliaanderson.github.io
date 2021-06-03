@@ -27,7 +27,7 @@ summary: A unique network of peatlands, locally known as bofedales, are found in
 
 tags:
 - peatlands
-featured: false
+featured: true
 
 # links:
 # - name: ""

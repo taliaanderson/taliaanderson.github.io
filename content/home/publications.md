@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+# Turn off because everything is in featured currently
+active: false
+
 # This file represents a page section.
 headless: true
 
@@ -36,7 +39,3 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
