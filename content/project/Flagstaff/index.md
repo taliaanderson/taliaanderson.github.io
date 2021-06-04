@@ -1,5 +1,5 @@
 ---
-title: Upper Lake Mary Lake Levels
+title: Upper Lake Mary Lake Level Variability 
 summary: Evaluating lake level records and their relationships to climate variables
 tags:
 #- Research

@@ -34,7 +34,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
+Since 2015, I have worked with collaborators on developing and analyzing tree-ring chronologies from Guatemala and Honduras. For my undergraduate honors thesis, I generated the first tree-ring chronology for Totonicap&aacute;n, Guatemala. A paper on the full network of chronologies that has been developed over the last 10 years is forthcoming - stay tuned!
 
 **RELATED PUBLICATIONS** 
 {{< cite page="/publication/Toto1" view="4" >}}
