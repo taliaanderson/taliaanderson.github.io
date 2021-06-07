@@ -36,7 +36,7 @@ url_video: ""
 slides: ""
 ---
 
-This research project began as part of a Fulbright Study and Research Fellowship in collaboration with the Instituto de Conservaci&oacute;n, Biodiversidad y Territorio in Valdivia, Chile and the Laboratorio de Geo-Informaci&oacute;n y Percepci&oacute;n Remota in Valpara&iacute;so, Chile. I used satellite imagery to monitor changes in greenness and to assess how climate factors like temperature and precipitation influence the productivity of the peatlands. 
+This research project began as part of a [Fulbright Study and Research Fellowship](https://us.fulbrightonline.org) in collaboration with the [Instituto de Conservaci&oacute;n, Biodiversidad y Territorio](http://www.forestal.uach.cl/instituto/conservacion-biodiversidad-territorio/) in Valdivia, Chile and the [Laboratorio de Geo-Informaci&oacute;n y Percepci&oacute;n Remota](http://www.pucv.cl/uuaa/site/edic/base/port/labgrs.html) in Valpara&iacute;so, Chile. I used satellite imagery to monitor changes in greenness and to assess how climate factors like temperature and precipitation influence the productivity of the peatlands. 
 
 **RELATED PUBLICATIONS** 
 {{< cite page="/publication/Peatland2" view="4" >}}

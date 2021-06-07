@@ -1,6 +1,6 @@
 ---
 title: Agricultural Decision-Making and Climate Variability in Guatemala
-summary: Integrating multiple sources of data and perspectives to understand change and variability in extreme events and rainfall and ways to make climate information more useful
+summary: Integrating multiple sources of data to better characterize climate change and variability and to make climate information more useful for farmers
 
 weight: 10 
 

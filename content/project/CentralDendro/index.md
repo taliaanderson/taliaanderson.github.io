@@ -14,7 +14,7 @@ lastmod: "2021-06-03"
 external_link: ""
 
 image:
-  caption: Scan of tree rings from site in Totonicap&aacute;n;, Guatemala. Check out [DendroElevator](http://dendro.elevator.umn.edu/) for more information on high resolution tree-ring imagery and analysis.
+  caption: Scan of tree rings from site in Totonicap&aacute;n, Guatemala. Check out [DendroElevator](http://dendro.elevator.umn.edu/) for more information on high resolution tree-ring imagery and analysis.
   focal_point: Smart
 
 links:

@@ -36,7 +36,7 @@ url_video: ""
 slides: ""
 ---
 
-This project focused on analyzing trends and changes in growing season rainfall patterns and extreme events across the drought-prone Dry Corridor region of Central America. We found that the MSD has increased in length and is interspersed with more variable episodes of rainfall across much of the region, although not yet significantly in most places. These regional trends are consistent with anecdotal evidence scattered throughout the literature and from our research in Guatemala, but localized analyses expose the challenges in capturing the complex spatial variability in Central American rainfall. This work has directly inspired and laid the groundwork for my [PhD research]({{< ref "/project/AgricultureGuate" >}}).
+This project focuses on analyzing trends and changes in growing season rainfall patterns and extreme events across the drought-prone Dry Corridor region of Central America. We finnd that the MSD has increased in length and is interspersed with more variable episodes of rainfall across much of the region, although not yet significantly in most places. These regional trends are consistent with anecdotal evidence scattered throughout the literature and from our research in Guatemala, but localized analyses expose the challenges in capturing the complex spatial variability in Central American rainfall. This work has directly inspired and laid the groundwork for my [PhD research]({{< ref "/project/AgricultureGuate" >}}).
 
 **RELATED PUBLICATIONS** 
 {{< cite page="/publication/MSD1" view="4" >}}

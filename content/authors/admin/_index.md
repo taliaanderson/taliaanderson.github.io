@@ -14,7 +14,7 @@ organizations:
   #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in the School of Geography, Development and Environment and in the Laboratory of Tree Ring Research. My research focuses on climate variability and change in Latin American mountain landscapes across different spatial and temporal scales. I employ a variety of data types, from tree rings to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
+bio: I am a PhD student in the [School of Geography, Development and Environment](https://geography.arizona.edu/) and in the [Laboratory of Tree Ring Research](https://ltrr.arizona.edu/) at the University of Arizona. My research focuses on climate variability and change in Latin American mountain landscapes across different spatial and temporal scales. I use a variety of data types, from tree rings to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
 
 # Interests to show in About widget
 interests:
@@ -74,6 +74,6 @@ email: "taliaanderson@email.arizona.edu"
 highlight_name: true
 ---
 
-I am a PhD student in the School of Geography, Development and Environment and in the Laboratory of Tree Ring Research. My research focuses on climate variability and change in Latin American mountain landscapes across different spatial and temporal scales. I employ a variety of data types, from tree rings to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
+I am a PhD student in the [School of Geography, Development and Environment](https://geography.arizona.edu/) and in the [Laboratory of Tree Ring Research](https://ltrr.arizona.edu/) at the University of Arizona. My research focuses on climate variability and change in Latin American mountain landscapes across different spatial and temporal scales. I use a variety of data types, from tree rings to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Anderson.pdf" "newtab" >}}CV{{< /staticref >}}.
