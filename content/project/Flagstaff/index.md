@@ -12,7 +12,7 @@ weight: 40
 external_link: ""
 
 image:
-  caption: 
+  caption: Upper Lake Mary, Photo from [USDA Forest Service, Coconino National Forest](https://www.flickr.com/photos/coconinonationalforest/)
   focal_point: Smart
 
 links:

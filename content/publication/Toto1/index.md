@@ -1,5 +1,5 @@
 ---
-title: "Climate Sensitivity and Potential Vulnerability of Guatemalan Fir (Abies guatemalensis) Forests in Totonicapn, Guatemala"
+title: "Climate Sensitivity and Potential Vulnerability of Guatemalan Fir (Abies guatemalensis) Forests in Totonicap\u00E1n, Guatemala"
 authors:
 - admin
 - Daniel Griffin
