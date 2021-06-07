@@ -3,7 +3,7 @@ title: "Spatiotemporal peatland productivity and climate relationships across th
 authors:
 - admin
 - Duncan A. Christie
-- Roberto O. Chavez
+- Roberto O. Chávez
 - Matias Olea
 - Kevin J Anchukaitis
 

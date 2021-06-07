@@ -1,7 +1,7 @@
 ---
 title: "A Multiscale Productivity Assessment of High Andean Peatlands across the Chilean Altiplano Using 31 Years of Landsat Imagery"
 authors:
-- Roberto O. Ch{{"á"}}vez
+- Roberto O. Chávez
 - Duncan A. Christie
 - Matias Olea
 - admin
