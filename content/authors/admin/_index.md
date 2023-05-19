@@ -6,7 +6,7 @@ title: Talia Anderson
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Geography
+role: Graduate Student in Geography
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in the [School of Geography, Development and Environment](https://geography.arizona.edu/) and in the [Laboratory of Tree Ring Research](https://ltrr.arizona.edu/) at the University of Arizona. My research focuses on climate variability and change in Latin American mountain landscapes across different spatial and temporal scales. I use a variety of data types, from tree rings to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
+bio: I am a PhD candidate in the [School of Geography, Development and Environment](https://geography.arizona.edu/) and in the [Laboratory of Tree Ring Research](https://ltrr.arizona.edu/) at the University of Arizona. My research focuses on climate variability and change in mountain landscapes across different spatial and temporal scales. I use a variety of data types, from tree rings to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
 
 # Interests to show in About widget
 interests:
