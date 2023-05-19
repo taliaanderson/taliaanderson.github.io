@@ -1,35 +1,377 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Talia Anderson</title>
+    <link>https://tanderson.github.io/project/</link>
+      <atom:link href="https://tanderson.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tanderson.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://tanderson.github.io/project/</link>
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
+      <title>Agricultural Decision-Making and Climate Variability in Guatemala</title>
+      <link>https://tanderson.github.io/project/agricultureguate/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
-      <description></description>
+      <guid>https://tanderson.github.io/project/agricultureguate/</guid>
+      <description>&lt;p&gt;This research is the focus of my PhD. I will combine multiple information sources to evaluate changes in extreme events and rainfall in Guatemala and will explore how climate information is and can be used by farmers to better adapt to climate changes. Stay tuned for updates!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FUNDING&lt;/strong&gt;&lt;br&gt;
+This research is supported by NSF Human-Environment and Geographical Sciences (HEGS) Grant BCS2049657: &amp;ldquo;Rainfall variability, extreme events, and vulnerability in heterogeneous social and environmental systems&#39;&#39;, PI: Kevin Anchukaitis, coPIs: Matthew Taylor, Diego Pons, Tom Evans, Diana Liverman.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
+      <title>Central American Mid-Summer Drought &amp; Rainfall Extremes</title>
+      <link>https://tanderson.github.io/project/msd/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://tanderson.github.io/project/msd/</guid>
+      <description>&lt;p&gt;This project focuses on analyzing trends and changes in growing season rainfall patterns and extreme events across the drought-prone Dry Corridor region of Central America. We finnd that the MSD has increased in length and is interspersed with more variable episodes of rainfall across much of the region, although not yet significantly in most places. These regional trends are consistent with anecdotal evidence scattered throughout the literature and from our research in Guatemala, but localized analyses expose the challenges in capturing the complex spatial variability in Central American rainfall. This work has directly inspired and laid the groundwork for my &lt;a href=&#34;https://tanderson.github.io/project/agricultureguate/&#34;&gt;PhD research&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RELATED PUBLICATIONS&lt;/strong&gt;
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span class=&#34;author-highlighted&#34;&gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/talia-anderson/&#34;&gt;Talia Anderson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/kevin-j.-anchukaitis/&#34;&gt;Kevin J. Anchukaitis&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/diego-pons/&#34;&gt;Diego Pons&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/matthew-taylor/&#34;&gt;Matthew Taylor&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2019).
+  &lt;a href=&#34;https://tanderson.github.io/publication/msd1/&#34;&gt;Multiscale trends and precipitation extremes in the Central American Midsummer Drought&lt;/a&gt;.
+  &lt;em&gt;Environmental Research Letters, 14&lt;/em&gt;(12).
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://iopscience.iop.org/article/10.1088/1748-9326/ab5023/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1088/1748-9326/ab5023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MEDIA&lt;/strong&gt;&lt;br&gt;
+-&lt;a href=&#34;https://news.arizona.edu/story/when-reporting-climatedriven-human-migration-place-matters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;When Reporting Climate Driven Human Migration, Place Matters&lt;/a&gt;&lt;br&gt;
+-&lt;a href=&#34;https://kjzz.org/content/1329766/researchers-discover-nuanced-connection-between-climate-change-and-immigration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Researchers Discover Nuanced Connection Between Climate Change And Immigration&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Western Altiplano Peatland Productivity</title>
+      <link>https://tanderson.github.io/project/peatlands/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://tanderson.github.io/project/peatlands/</guid>
+      <description>&lt;p&gt;This research project began as part of a &lt;a href=&#34;https://us.fulbrightonline.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fulbright Study and Research Fellowship&lt;/a&gt; in collaboration with the &lt;a href=&#34;http://www.forestal.uach.cl/instituto/conservacion-biodiversidad-territorio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto de Conservación, Biodiversidad y Territorio&lt;/a&gt; in Valdivia, Chile and the &lt;a href=&#34;http://www.pucv.cl/uuaa/site/edic/base/port/labgrs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laboratorio de Geo-Información y Percepción Remota&lt;/a&gt; in Valparaíso, Chile. I used satellite imagery to monitor changes in greenness and to assess how climate factors like temperature and precipitation influence the productivity of the peatlands.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RELATED PUBLICATIONS&lt;/strong&gt;
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span class=&#34;author-highlighted&#34;&gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/talia-anderson/&#34;&gt;Talia Anderson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/duncan-a.-christie/&#34;&gt;Duncan A. Christie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/roberto-o.-chavez/&#34;&gt;Roberto O. Chávez&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/matias-olea/&#34;&gt;Matias Olea&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/kevin-j-anchukaitis/&#34;&gt;Kevin J Anchukaitis&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2021).
+  &lt;a href=&#34;https://tanderson.github.io/publication/peatland2/&#34;&gt;Spatiotemporal peatland productivity and climate relationships across the western South American Altiplano&lt;/a&gt;.
+  &lt;em&gt;Journal of Geophysical Research - Biogeosciences&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JG005994&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/%20https://doi.org/10.1029/2020JG005994&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/roberto-o.-chavez/&#34;&gt;Roberto O. Chávez&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/duncan-a.-christie/&#34;&gt;Duncan A. Christie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/matias-olea/&#34;&gt;Matias Olea&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;author-highlighted&#34;&gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/talia-anderson/&#34;&gt;Talia Anderson&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2019).
+  &lt;a href=&#34;https://tanderson.github.io/publication/peatland1/&#34;&gt;A Multiscale Productivity Assessment of High Andean Peatlands across the Chilean Altiplano Using 31 Years of Landsat Imagery&lt;/a&gt;.
+  &lt;em&gt;Remote Sensing, 11&lt;/em&gt;(24).
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.mdpi.com/2072-4292/11/24/2955/htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.3390/rs11242955&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Upper Lake Mary Lake Level Variability</title>
+      <link>https://tanderson.github.io/project/flagstaff/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://tanderson.github.io/project/flagstaff/</guid>
+      <description>&lt;p&gt;This project was the result of a collaboration between the Climate Assessment for the Southwest (&lt;a href=&#34;https://climas.arizona.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CLIMAS&lt;/a&gt;) program at the University of Arizona and Flagstaff Water Services (&lt;a href=&#34;https://www.flagstaff.az.gov/1275/Water-Services&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FWS&lt;/a&gt;). The overarching question at the heart of this research was: how do Upper Lake Mary (ULM) water levels respond to climatic conditions in the Rio de Flag and Walnut Creek watersheds? We found that cool season (Nov-Mar) precipitation consistently plays the most important role in determining ULM lake levels. This emphasizes the primary influence of combined winter snow accumulation and early spring precipitation on lake levels for the upcoming summer. However, we also suggested that temperatures may be playing an increasingly important role in determining lake levels in more recent years.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FUNDING&lt;/strong&gt;&lt;br&gt;
+This research was supported by a grant from the National Oceanic and Atmospheric Administration&amp;rsquo;s Climate Program Office through grant NA17OAR4310288 with the CLIMAS program at the University of Arizona.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Central American Dendrochronology</title>
+      <link>https://tanderson.github.io/project/centraldendro/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <guid>https://tanderson.github.io/project/centraldendro/</guid>
+      <description>&lt;p&gt;Since 2015, I have worked with collaborators on developing and analyzing tree-ring chronologies from Guatemala and Honduras. For my undergraduate honors thesis, I generated the first tree-ring chronology for Totonicapán, Guatemala. A paper on the full network of chronologies that has been developed over the last 10 years is forthcoming - stay tuned!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RELATED PUBLICATIONS&lt;/strong&gt;
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span class=&#34;author-highlighted&#34;&gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/talia-anderson/&#34;&gt;Talia Anderson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/daniel-griffin/&#34;&gt;Daniel Griffin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/kevin-j.-anchukaitis/&#34;&gt;Kevin J. Anchukaitis&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/diego-pons/&#34;&gt;Diego Pons&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/matthew-j.-taylor/&#34;&gt;Matthew J. Taylor&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2018).
+  &lt;a href=&#34;https://tanderson.github.io/publication/toto1/&#34;&gt;Climate Sensitivity and Potential Vulnerability of Guatemalan Fir (Abies guatemalensis) Forests in Totonicapán, Guatemala&lt;/a&gt;.
+  &lt;em&gt;Journal of Latin American Geography, 17&lt;/em&gt;(1).
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://muse.jhu.edu/article/692066&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1353/lag.2018.0009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MEDIA&lt;/strong&gt;&lt;br&gt;
+-&lt;a href=&#34;https://research.arizona.edu/stories/video-climate-scientists-work-communities-guatemala&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guardabosques - Guardians of the Forest&lt;/a&gt;, Video by &lt;a href=&#34;https://www.maricleven.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mari Cleven&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

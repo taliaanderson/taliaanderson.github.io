@@ -1,9 +1,9 @@
 {
-  "name": "Academic",
-  "short_name": "Academic",
+  "name": "Talia Anderson",
+  "short_name": "Talia Anderson",
   "lang": "en-us",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
+  "theme_color": "#31708E",
+  "background_color": "#31708E",
   "icons": [{
     "src": "/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
