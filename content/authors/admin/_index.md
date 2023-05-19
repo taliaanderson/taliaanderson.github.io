@@ -74,6 +74,6 @@ email: "taliaanderson@email.arizona.edu"
 highlight_name: true
 ---
 
-I am a PhD student in the [School of Geography, Development and Environment](https://geography.arizona.edu/) and in the [Laboratory of Tree Ring Research](https://ltrr.arizona.edu/) at the University of Arizona. My research focuses on climate variability and change in Latin American mountain landscapes across different spatial and temporal scales. I use a variety of data types, from tree rings to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
+I am a PhD candidate in the [School of Geography, Development and Environment](https://geography.arizona.edu/) and in the [Laboratory of Tree Ring Research](https://ltrr.arizona.edu/) at the University of Arizona. My research focuses on climate variability and change in mountain landscapes across different spatial and temporal scales. I use a variety of data types, from tree rings to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Anderson.pdf" "newtab" >}}CV{{< /staticref >}}.
