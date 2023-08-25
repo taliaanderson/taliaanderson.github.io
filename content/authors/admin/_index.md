@@ -56,9 +56,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/taliaanderson
-#- icon: linkedin
-  #icon_pack: fab
-  #link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/talia-anderson-874048276
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,7 +68,7 @@ social:
   link: uploads/CV_Anderson.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "taliaanderson@email.arizona.edu"
+email: "taliaanderson@arizona.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
