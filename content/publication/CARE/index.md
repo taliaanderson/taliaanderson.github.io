@@ -29,7 +29,7 @@ abstract: Indigenous Peoples are increasingly being sought out for research part
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis #placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-#- MSD
+- CARE
 featured: true
 
 # links:
