@@ -41,4 +41,4 @@ This research is the focus of my PhD. I will combine multiple information source
 This research is supported by NSF Human-Environment and Geographical Sciences (HEGS) Grant BCS2049657: "Rainfall variability, extreme events, and vulnerability in heterogeneous social and environmental systems'', PI: Kevin Anchukaitis, coPIs: Matthew Taylor, Diego Pons, Tom Evans, Diana Liverman.
 
 **MEDIA**\
--[El Niño menace une région déjà éprouvée](https://www.lapresse.ca/international/amerique-latine/2023-08-09/changements-climatiques/el-nino-menace-une-region-deja-eprouvee.php#)
+-[El Ni–o menace une rŽgion dŽjˆ ŽprouvŽe](https://www.lapresse.ca/international/amerique-latine/2023-08-09/changements-climatiques/el-nino-menace-une-region-deja-eprouvee.php#)

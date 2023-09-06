@@ -58,7 +58,7 @@ social:
   link: https://github.com/taliaanderson
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/talia-anderson-874048276
+  link: https://linkedin.com/in/talia-anderson-874048276
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
