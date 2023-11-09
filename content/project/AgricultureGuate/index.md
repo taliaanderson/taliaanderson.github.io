@@ -8,7 +8,7 @@ tags:
 #- Central America
 #- agriculture
 date: "2016-04-27T00:00:00Z"
-lastmod: "2021-06-03"
+lastmod: "2023-11-09"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -35,10 +35,15 @@ url_video: ""
 slides: ""
 ---
 
-This research is the focus of my PhD. I will combine multiple information sources to evaluate changes in extreme events and rainfall in Guatemala and will explore how climate information is and can be used by farmers to better adapt to climate changes. Stay tuned for updates!
+This research is the focus of my PhD. I will combine multiple information sources to evaluate changes in extreme events and rainfall in Guatemala and will explore how climate information is and can be used by farmers to better adapt to climate changes. 
+My first chapter uses a sophisticated statistical modeling approach to understand the role of natural climate variability in the 2015-2019 drought in Central America. 
+Stay tuned for more updates!
 
 **FUNDING**\
 This research is supported by NSF Human-Environment and Geographical Sciences (HEGS) Grant BCS2049657: "Rainfall variability, extreme events, and vulnerability in heterogeneous social and environmental systems'', PI: Kevin Anchukaitis, coPIs: Matthew Taylor, Diego Pons, Tom Evans, Diana Liverman.
+
+**RELATED PUBLICATIONS** 
+{{< cite page="/publication/CA_Drought_OLEns" view="4" >}}
 
 **MEDIA**\
 -[El Ni&ntilde;o menace une r&eacute;gion d&eacute;j&agrave; &eacute;prouv&eacute;e](https://www.lapresse.ca/international/amerique-latine/2023-08-09/changements-climatiques/el-nino-menace-une-region-deja-eprouvee.php#)

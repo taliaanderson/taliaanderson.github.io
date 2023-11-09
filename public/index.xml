@@ -17,9 +17,96 @@
       <link>https://tanderson.github.io/project/agricultureguate/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://tanderson.github.io/project/agricultureguate/</guid>
-      <description>&lt;p&gt;This research is the focus of my PhD. I will combine multiple information sources to evaluate changes in extreme events and rainfall in Guatemala and will explore how climate information is and can be used by farmers to better adapt to climate changes. Stay tuned for updates!&lt;/p&gt;
+      <description>&lt;p&gt;This research is the focus of my PhD. I will combine multiple information sources to evaluate changes in extreme events and rainfall in Guatemala and will explore how climate information is and can be used by farmers to better adapt to climate changes.
+My first chapter uses a sophisticated statistical modeling approach to understand the role of natural climate variability in the 2015-2019 drought in Central America.
+Stay tuned for more updates!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;FUNDING&lt;/strong&gt;&lt;br&gt;
 This research is supported by NSF Human-Environment and Geographical Sciences (HEGS) Grant BCS2049657: &amp;ldquo;Rainfall variability, extreme events, and vulnerability in heterogeneous social and environmental systems&#39;&#39;, PI: Kevin Anchukaitis, coPIs: Matthew Taylor, Diego Pons, Tom Evans, Diana Liverman.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RELATED PUBLICATIONS&lt;/strong&gt;
+
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span class=&#34;author-highlighted&#34;&gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/talia-anderson/&#34;&gt;Talia Anderson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/karen-a.-mckinnon/&#34;&gt;Karen A. McKinnon&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/kevin-j.-anchukaitis/&#34;&gt;Kevin J. Anchukaitis&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://tanderson.github.io/author/diego-pons/&#34;&gt;Diego Pons&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2023).
+  &lt;a href=&#34;https://tanderson.github.io/publication/ca_drought_olens/&#34;&gt;How Exceptional Was the 2015–2019 Central American Drought?&lt;/a&gt;.
+  &lt;em&gt;Geophysical Research Letters&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL105391&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/taliaanderson/observational_large_ensemble&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Dataset
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1029/2023GL105391&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;MEDIA&lt;/strong&gt;&lt;br&gt;
 -&lt;a href=&#34;https://www.lapresse.ca/international/amerique-latine/2023-08-09/changements-climatiques/el-nino-menace-une-region-deja-eprouvee.php#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;El Niño menace une région déjà éprouvée&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -493,6 +580,14 @@ This research was supported by a grant from the National Oceanic and Atmospheric
     </item>
     
     <item>
+      <title>How Exceptional Was the 2015–2019 Central American Drought?</title>
+      <link>https://tanderson.github.io/publication/ca_drought_olens/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://tanderson.github.io/publication/ca_drought_olens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Applying the &#39;CARE Principles for Indigenous Data Governance&#39; to ecology and biodiversity research</title>
       <link>https://tanderson.github.io/publication/care/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
@@ -637,7 +732,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-725948361&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-276539814&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -647,7 +742,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-725948361&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-276539814&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
