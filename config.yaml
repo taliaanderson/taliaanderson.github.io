@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Talia Anderson # Website name
 baseurl: 'https://tanderson.github.io/' # Website URL
-#publishDir: public
+publishDir: docs
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
