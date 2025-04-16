@@ -6,15 +6,15 @@ title: Talia Anderson
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student in Geography
+role: NOAA Climate & Global Change Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Arizona
+- name: University of California - Los Angeles
   #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in the [School of Geography, Development and Environment](https://geography.arizona.edu/) and in the [Laboratory of Tree Ring Research](https://ltrr.arizona.edu/) at the University of Arizona. My research focuses on climate variability and change in mountain landscapes across different spatial and temporal scales. I use a variety of data types, from tree rings to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
+bio: I am a postdoctoral fellow with the NOAA Climate & Global Change Program [NOAA Climate & Global Change Program](https://cpaess.ucar.edu/cgc/current-awards-alumni). I am based at the University of California - Los Angeles with the McKinnon Group [McKinnon Group](https://karenamckinnon.github.io/). My research focuses on climate variability and change in mountain landscapes across different spatial and temporal scales. I use a variety of data types, from models to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
 
 # Interests to show in About widget
 interests:
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Geography
     institution: University of Arizona
-    year: 2024 (Expected)
+    year: 2024
   - course: MA in Geography
     institution: University of Arizona
     year: 2020
@@ -74,6 +74,6 @@ email: "taliaanderson@arizona.edu"
 highlight_name: true
 ---
 
-I am a PhD candidate in the [School of Geography, Development and Environment](https://geography.arizona.edu/) and in the [Laboratory of Tree Ring Research](https://ltrr.arizona.edu/) at the University of Arizona. My research focuses on climate variability and change in mountain landscapes across different spatial and temporal scales. I use a variety of data types, from tree rings to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
+I am a postdoctoral fellow with the NOAA Climate & Global Change Program [NOAA Climate & Global Change Program](https://cpaess.ucar.edu/cgc/current-awards-alumni). I am based at the University of California - Los Angeles with the McKinnon Group [McKinnon Group](https://karenamckinnon.github.io/). My research focuses on climate variability and change in mountain landscapes across different spatial and temporal scales. I use a variety of data types, from models to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Anderson.pdf" "newtab" >}}CV{{< /staticref >}}.
