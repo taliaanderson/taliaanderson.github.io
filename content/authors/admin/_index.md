@@ -6,15 +6,15 @@ title: Talia Anderson
 superuser: true
 
 # Role/position/tagline
-role: NOAA Climate & Global Change Postdoctoral Fellow
+role: University of Minnesota Presidential Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California - Los Angeles
+- name: University of Minnesota - Twin Cities
   #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoctoral fellow with the NOAA Climate & Global Change Program [NOAA Climate & Global Change Program](https://cpaess.ucar.edu/cgc/current-awards-alumni). I am based at the University of California - Los Angeles with the McKinnon Group [McKinnon Group](https://karenamckinnon.github.io/). My research focuses on climate variability and change in mountain landscapes across different spatial and temporal scales. I use a variety of data types, from models to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
+bio: I am a [University of Minnesota Presidential Postdoctoral Fellow](https://ppfp.umn.edu/) in the [Department of Geography, Environment & Society](https://cla.umn.edu/geography). I recently completed another postdoctoral fellowship with the [NOAA Climate & Global Change Program](https://cpaess.ucar.edu/cgc) and was based at the University of California - Los Angeles in the [McKinnon Group](https://karenamckinnon.github.io/). My research focuses on climate variability and change in mountain landscapes across different spatial and temporal scales. I use a variety of data types, from models to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
 
 # Interests to show in About widget
 interests:
@@ -68,12 +68,12 @@ social:
   link: uploads/CV_Anderson.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "tanderson@ucar.edu"
+email: "taliaa@umn.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a postdoctoral fellow with the NOAA Climate & Global Change Program [NOAA Climate & Global Change Program](https://cpaess.ucar.edu/cgc/current-awards-alumni). I am based at the University of California - Los Angeles with the McKinnon Group [McKinnon Group](https://karenamckinnon.github.io/). My research focuses on climate variability and change in mountain landscapes across different spatial and temporal scales. I use a variety of data types, from models to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions. 
+I am a [University of Minnesota Presidential Postdoctoral Fellow](https://ppfp.umn.edu/) in the [Department of Geography, Environment & Society](https://cla.umn.edu/geography). I recently completed another postdoctoral fellowship with the [NOAA Climate & Global Change Program](https://cpaess.ucar.edu/cgc) and was based at the University of California - Los Angeles in the [McKinnon Group](https://karenamckinnon.github.io/). My research focuses on climate variability and change in mountain landscapes across different spatial and temporal scales. I use a variety of data types, from models to satellite imagery, to explore climate impacts in both localized areas and large, multi-country regions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Anderson.pdf" "newtab" >}}CV{{< /staticref >}}.
