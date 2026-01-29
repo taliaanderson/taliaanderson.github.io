@@ -42,7 +42,7 @@ My second chapter combined satellite-based climate data and interviews with over
 The climate data analyses in this paper indicate that trends in rainfall are widely variabile depending on region and time period of interest. Interviews with smallholder farmers also revealed a wide range in perceptions of recent rainfall trends. 
 We showed that farmers who perceived recent changes in rainfall were more likely to adapt their agricultural maize practices, but that these changes were mediated by their income sources and dependence on agriculture. 
 Ultimately, we found that it is essential to reconcile individual and community perceptions with observed and anticipated changes to ensure appropriate adaptation strategies within the specific agricultural context. 
-My third and final chapter was focused on the quality and usability of seasonal climate forecasts and information among smallholder farmers. The manuscript is currently under review for publication.
+My third and final chapter was focused on the quality and usability of seasonal climate forecasts and information among smallholder farmers. The manuscript is published in [Weather, Climate, and Society](https://journals.ametsoc.org/view/journals/wcas/18/1/WCAS-D-25-0001.1.xml).
 We found that the technical skill of published forecasts varies regionally, but that many of the model configurations used in the last five years could have provided some useful climate information. 
 However, we also showed that very few smallholder farmers know about these forecasts or have access to them. We provided some recommendations for improving future seasonal forecasts in the region in terms of technical quality and societal value.
 
@@ -56,3 +56,5 @@ This research was supported by NSF Human-Environment and Geographical Sciences (
 
 **MEDIA**\
 -[El Ni&ntilde;o menace une r&eacute;gion d&eacute;j&agrave; &eacute;prouv&eacute;e](https://www.lapresse.ca/international/amerique-latine/2023-08-09/changements-climatiques/el-nino-menace-une-region-deja-eprouvee.php#)
+-[What's going on with the rains?](https://climas.arizona.edu/news/whats-going-rains)
+-[In a warming world, hunger stalks Guatemala's Mayan highlands](https://www.straitstimes.com/world/in-a-warming-world-hunger-stalks-guatemalas-mayan-highlands)
