@@ -2,7 +2,7 @@
 title: Seasonal Forecasting in Central America
 summary: Improving seasonal forecasts throughout the region with models and data
 
-weight: 9
+weight: 5
 
 tags:
 #- Central America
